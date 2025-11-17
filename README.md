@@ -1,5 +1,5 @@
 Symulacja Totolotka
-Projekt w języku Java symulujący działanie systemu loterii "Totolotek". Został zrealizowany w ramach kursu Programowanie Obiektowe.
+Projekt w języku Java symulujący działanie systemu loterii "Totolotek". Został zrealizowany w ramach kursu Programowanie Obiektowe na MIMUW.
 
 Projekt implementuje logikę tworzenia centrali, kolektur, różnych typów graczy oraz przeprowadzania cyklicznych losowań, obliczania wygranych i zarządzania finansami.
 
@@ -79,6 +79,3 @@ Logikę finansową w klasie Panstwo.
 Tworzenie graczy i ich podstawowe zachowania.
 
 Poprawne generowanie Kuponu i obliczanie jego ceny.
-
-📊 Diagram UML
-W repozytorium znajduje się plik dia.mdj, który zawiera diagram klas UML dla projektu. Plik ten można otworzyć za pomocą oprogramowania StarUML lub innego kompatybilnego edytora.
